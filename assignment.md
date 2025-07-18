@@ -48,7 +48,7 @@ Create a 2D numpy array of shape (5, 5) filled with the number 1.
 Answer:
 
 ```python
-np.ones(5, 5)
+np.ones((5, 5))
 
 ```
 
